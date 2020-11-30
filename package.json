@@ -1,0 +1,22 @@
+{
+  "name": "@wulihua/frontend-logger",
+  "version": "0.0.2",
+  "description": "收集前端脚本报错日志",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/390405712/frontend-logger.git"
+  },
+  "author": "wulihua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/390405712/frontend-logger/issues"
+  },
+  "homepage": "https://github.com/390405712/frontend-logger#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
